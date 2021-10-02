@@ -23,6 +23,7 @@ r15---sn-n8v7knez.googlevideo.com
 r15---sn-n8v7sney.googlevideo.com
 r15---sn-n8v7znsr.googlevideo.com
 r16---sn-n8v7knel.googlevideo.com
+r16---sn-n8v7knez.googlevideo.com
 r16---sn-n8v7znzl.googlevideo.com
 r18---sn-n8v7kn7d.googlevideo.com
 r18---sn-n8v7kn7e.googlevideo.com
@@ -35,14 +36,17 @@ r3---sn-n8v7kn7s.googlevideo.com
 r4---sn-4g5lzned.googlevideo.com
 r4---sn-n8v7kne6.googlevideo.com
 r4---sn-n8v7znly.googlevideo.com
+r4---sn-n8v7znse.googlevideo.com
 r4---sn-n8v7znsy.googlevideo.com
 r4---sn-n8v7znzl.googlevideo.com
 r5---sn-n8v7znsd.googlevideo.com
 r5---sn-n8v7znz7.googlevideo.com
+r6---sn-n8v7sney.googlevideo.com
 r6---sn-n8v7zns7.googlevideo.com
 r6---sn-n8v7znsz.googlevideo.com
 r8---sn-n8v7kn7e.googlevideo.com
 r8---sn-n8v7kn7l.googlevideo.com
+r8---sn-n8v7kn7s.googlevideo.com
 r9---sn-n8v7kn7y.googlevideo.com
 r9---sn-n8v7znss.googlevideo.com
 r9---sn-n8v7znz7.googlevideo.com
