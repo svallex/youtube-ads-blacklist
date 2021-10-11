@@ -87,6 +87,7 @@ r7---sn-n8v7kn7l.googlevideo.com
 r7---sn-n8v7kne6.googlevideo.com
 r7---sn-n8v7znsz.googlevideo.com
 r7---sn-n8v7znze.googlevideo.com
+r7---sn-n8v7znzl.googlevideo.com
 r8---sn-n8v7kn76.googlevideo.com
 r8---sn-n8v7kn7e.googlevideo.com
 r8---sn-n8v7kn7l.googlevideo.com
@@ -96,3 +97,4 @@ r9---sn-n8v7kn76.googlevideo.com
 r9---sn-n8v7kne6.googlevideo.com
 r9---sn-n8v7znss.googlevideo.com
 r9---sn-n8v7znz7.googlevideo.com
+r9---sn-n8v7znze.googlevideo.com
